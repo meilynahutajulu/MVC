@@ -29,10 +29,10 @@ Bertindak sebagai perantara antara model dan view. Ini menerima input pengguna, 
 - Memperbarui view sesuai.
 
 ## Advantages
--Separation of Concerns
--Code Reusability
--Parallel Development
--Testability
+- Separation of Concerns
+- Code Reusability
+- Parallel Development
+- Testability
 
 ## Example of MVC
 ![image](https://github.com/meilynahutajulu/MVC/assets/112601862/06b5e8f8-0fdc-415a-b85d-7015fdb63ac4)
@@ -40,4 +40,5 @@ Bertindak sebagai perantara antara model dan view. Ini menerima input pengguna, 
 
 
 
-refrensi : https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.geeksforgeeks.org%2Fmvc-design-pattern%2F&psig=AOvVaw22kQo3cpq9GouAdQ6C2QD5&ust=1713188679173000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKCIzbbrwYUDFQAAAAAdAAAAABAE
+## Refrensi
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.geeksforgeeks.org%2Fmvc-design-pattern%2F&psig=AOvVaw22kQo3cpq9GouAdQ6C2QD5&ust=1713188679173000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKCIzbbrwYUDFQAAAAAdAAAAABAE
