@@ -41,4 +41,4 @@ Bertindak sebagai perantara antara model dan view. Ini menerima input pengguna, 
 
 
 ## Refrensi
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.geeksforgeeks.org%2Fmvc-design-pattern%2F&psig=AOvVaw22kQo3cpq9GouAdQ6C2QD5&ust=1713188679173000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKCIzbbrwYUDFQAAAAAdAAAAABAE
+https://bit.ly/Model-View-Controller  (https://www.geeksforgeeks)
