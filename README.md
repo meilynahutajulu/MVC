@@ -41,5 +41,5 @@ Bertindak sebagai perantara antara model dan view. Ini menerima input pengguna, 
 
 
 ## Refrensi
-https://bit.ly/Model-View-Controller  
-(https://www.geeksforgeeks.org)
+https://bit.ly/Model-View-Controller  (geeksforgeek)
+
